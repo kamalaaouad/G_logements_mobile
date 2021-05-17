@@ -9,15 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.G_logements">
-        <activity android:name=".controllers.Registration"></activity>
-        <activity android:name=".controllers.Login" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".controllers.Detail_logements"></activity>
+        <activity android:name=".controllers.ListLogements" />
+        <activity android:name=".controllers.Registration">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".controllers.Login" />
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>

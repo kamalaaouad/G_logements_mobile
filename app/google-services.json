@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362780908480",
+    "firebase_url": "https://g-logements-default-rtdb.firebaseio.com",
+    "project_id": "g-logements",
+    "storage_bucket": "g-logements.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362780908480:android:5db0437f33e661b7064625",
+        "android_client_info": {
+          "package_name": "com.example.g_logements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362780908480-ucrggupi58tb6jdgntvqmmuqobcnq6fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcYHGItKkq3udVr81z3Cxy0uQI6zBbV8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362780908480-ucrggupi58tb6jdgntvqmmuqobcnq6fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
